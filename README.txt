@@ -1,0 +1,3 @@
+What's a palindrome? "Racecar" is a palindrome because when you flip it backwards, it's the same word. So this function helps detect if a word you entered
+is a palindrome or not, simple, but interesting. So the way this function works is that it will knock and check if the 2 outermost letters are 
+the same letter or not, resulting in the function saving you time trying to figure out if a word is a palindrome.
